@@ -1,4 +1,4 @@
-# ml_zoomcamp
+# Machine Learning ZoomCamp
 Exercises of the Machine Learning Zoomcamp course
 
 
